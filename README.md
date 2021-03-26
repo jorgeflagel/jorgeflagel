@@ -6,7 +6,7 @@ I’m currently learning:
 - Django.
 
 I’m looking to collaborate on web development projects.
-You can reach me at my email: **jorgeflagel@gmail.com
+You can reach me at my email: **jorgeflagel@gmail.com**
 
 <!---
 jorgeflagel/jorgeflagel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
