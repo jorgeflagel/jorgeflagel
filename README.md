@@ -7,7 +7,7 @@ I’m currently learning:
 
 I’m looking to collaborate on web development projects.
 You can reach me at: 
-- **jorgeflagel@gmail.com** 
+- jorgeflagel@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jorge-e-flagel-b2b372207/)
 
 <!---
