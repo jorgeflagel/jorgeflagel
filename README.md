@@ -8,9 +8,9 @@ I’m currently learning:
 I’m looking to collaborate on web development projects.
 You can reach me at: 
 - **Email:** jorgeflagel@gmail.com
-- **[Personal Page](https://jorgeflagel-personal-page-jorgeflagel.vercel.app/)**
+- **[Personal Page](https://jorgeflagel.vercel.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/jorge-e-flagel-b2b372207/)**
-- **[Frontend Portfolio](https://www.frontendmentor.io/profile/jorgeflagel)**
+- **[Frontend Portfolio](https://www.frontendmentor.io/profile/jorgeflagel/solutions)**
 
 <!---
 jorgeflagel/jorgeflagel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
